@@ -3,3 +3,4 @@ hi, Git!
 третья строчка
 hi from windows
 новая фича
+about page
