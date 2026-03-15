@@ -4,3 +4,5 @@ hi, Git!
 hi from windows
 новая фича
 main update
+about page
+
