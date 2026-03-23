@@ -1,0 +1,11 @@
+stages:
+  - hello
+
+say_hello:
+  stage: hello
+  tags:
+    - ubuntu
+  script:
+    - echo "лабу привет"
+    - whoami
+    - pwd
